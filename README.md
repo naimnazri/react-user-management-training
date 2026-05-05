@@ -15,7 +15,7 @@ This repository contains materials for the Web Programming training session.
 
 ### 1. Clone the repository
 ```bash
-git clone <repo-link>
+git clone https://github.com/naimnazri/react-user-management-training.git
 cd starter/app
 ```
 
