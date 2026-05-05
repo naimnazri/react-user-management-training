@@ -17,14 +17,19 @@ This repository contains materials for the Web Programming training session.
 ```bash
 git clone <repo-link>
 cd starter/app
+```
 
-2. Install dependencies
+### 2. Install dependencies
+```bash
 npm install
+```
 
-3. Run the project
+### 3. Run the project
+```bash
 npm run dev
+```
 
-🎯 What You Will Learn
+### 🎯 What You Will Learn
 Fetch data from API
 Display dynamic data using React
 Manage state with useState
@@ -33,11 +38,11 @@ Implement search functionality
 Simulate CRUD operations
 Build reusable components
 
-⚠️ Notes
+### ⚠️ Notes
 If you face issues, follow the demo first
 You can refer to the final/ folder after the session
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 React (Vite)
 Tailwind CSS
 Axios
