@@ -30,19 +30,19 @@ npm run dev
 ```
 
 ### 🎯 What You Will Learn
-Fetch data from API
-Display dynamic data using React
-Manage state with useState
-Handle side effects with useEffect
-Implement search functionality
-Simulate CRUD operations
-Build reusable components
+- Fetch data from API
+- Display dynamic data using React
+- Manage state with useState
+- Handle side effects with useEffect
+- Implement search functionality
+- Simulate CRUD operations
+- Build reusable components
 
 ### ⚠️ Notes
-If you face issues, follow the demo first
-You can refer to the final/ folder after the session
+- If you face issues, follow the demo first
+- You can refer to the final/ folder after the session
 
 ### 🛠 Tech Stack
-React (Vite)
-Tailwind CSS
-Axios
+- React (Vite)
+- Tailwind CSS
+- Axios
